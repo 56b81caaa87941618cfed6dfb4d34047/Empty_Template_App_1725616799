@@ -1,0 +1,18 @@
+{
+    "id": "sidebar-f8a9e8d3-8a7d-ff0e-1dae-db10e063ef05",
+    "name": "sidebar",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 3,
+    "h": 12,
+    "x": "20",
+    "y": "100",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
